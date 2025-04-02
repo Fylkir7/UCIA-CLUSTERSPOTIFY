@@ -36,3 +36,5 @@ Pode parecer semelhante ao conceito de músicas virais, mas esse cluster seria m
 # Finalização
 
 Mais clusters poderiam ser criados para alcançar outros objetivos, um que avaliaria a popularidade de músicas explícitas e não explícitas seria interessante. Acredito que esse método de agrupamento seja perfeito justamente por se alinhar com as estratégias reais da indústria, que analisam o que está bombando em diferentes plataformas, permitindo que os artistas, agências e empresas ajustem o marketing e a promoção com base nos clusters. É prático e funcional.
+
+Penso que usar o algoritmo K-means seria bom, pelo menos no ínicio, por conta de sua simplicidade. Como ele divide os dados em clusters baseados em similaridades, é ideal para um dataset como esse que contém um volume muito grande de dados númericos como as visualizações, likes, streams, entre outros.
